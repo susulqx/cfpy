@@ -1,7 +1,7 @@
 name = 'cfpy'
 main = "_worker.js"
 keep_vars = true
-
+compatibility_date = "2026-09-30"
 [[kv_namespaces]]
 binding = "KV"			#KV绑定名默认不可修改
 id = "susuvpn"				#KV数据库id
